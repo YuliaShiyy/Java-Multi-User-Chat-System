@@ -9,8 +9,10 @@ The primary goal of this project is to demonstrate a deep understanding and prac
 ---
 
 ## Demo
+Mass Messaging
 ![MassMessaging-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6af3933b-99ad-4f5e-aeb6-921f5eb2dc21)
 
+Private Messaging
 ![PrivateMessaging-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ea8f1b5a-1f86-4157-8b36-51ce0f4cff4e)
 
 
