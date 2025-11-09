@@ -83,7 +83,7 @@ This project goes beyond just "making it work"—it solves several core challeng
 
 ### 1. Start the Server
 Run the `main` method in `server.frame.Frame.java`.
-You will see `服务端在9999端口监听...` (Server listening on port 9999...) in the console.
+You will see `Server listening on port 9999...`  in the console.
 
 ### 2. Run the Client (Multiple Instances)
 1.  Run the `main` method in `client.view.View.java` to launch the first client.
