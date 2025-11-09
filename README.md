@@ -108,4 +108,4 @@ Use any of the following accounts to log in:
 
 ## License
 
-This project is licensed under the [MIT License]
+This project is licensed under the MIT License
