@@ -38,8 +38,7 @@ The primary goal of this project is to demonstrate a deep understanding and prac
 ## Architecture
 
 This project uses a classic C/S architecture, heavily optimized for concurrency and network stream management.
-
-`[Insert your architecture diagram image here (e.g., image_84d1a2.jpg)]`
+<img width="1532" height="684" alt="未命名绘图 drawio" src="https://github.com/user-attachments/assets/b36c3432-2a0e-4702-9a86-870e9bfeaef2" />
 
 ### 1. Server-Side
 
